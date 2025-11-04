@@ -137,4 +137,5 @@ ELECTION_WINDOW_SECONDS = 300
 CSRF_TRUSTED_ORIGINS = [
     "https://*.pythonanywhere.com",
     "https://ton-frontend.vercel.app",  # remplace par ton domaine réel de front
+    ""
 ]
